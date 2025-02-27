@@ -19,7 +19,7 @@ export default {
       _subject: 1,
     },
     A_A_CRYP1: {
-      _subject: 1,
+      _subject: 2,
     }
   },
   PS3: {
@@ -27,7 +27,7 @@ export default {
       _subject: 1,
     },
     A_IBMZ1: {
-      _subject: 1.5,
+      _subject: 1,
     },
     ASSE: {
       _subject: 1,
